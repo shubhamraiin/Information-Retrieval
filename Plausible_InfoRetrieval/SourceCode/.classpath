@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="N:/IR project/Tools/stanford-ner-2014-10-26/stanford-ner.jar"/>
+	<classpathentry kind="lib" path="N:/IR project/Tools/stanford-ner-2014-10-26/stanford-ner-3.5.0.jar"/>
+	<classpathentry kind="lib" path="N:/IR project/Tools/stanford-ner-2014-10-26/stanford-ner-3.5.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="N:/IR project/Tools/stanford-ner-2014-10-26/stanford-ner-3.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="N:/IR project/jsoup-1.8.1.jar"/>
+	<classpathentry kind="lib" path="N:/IR project/Tools/lucene-analyzers-common-4.10.2.jar"/>
+	<classpathentry kind="lib" path="N:/IR project/Tools/lucene-core-4.10.2.jar"/>
+	<classpathentry kind="lib" path="N:/IR project/Tools/lucene-demo-4.10.2.jar"/>
+	<classpathentry kind="lib" path="N:/IR project/Tools/lucene-queryparser-4.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Data/IR/Tools/Apache/commons-lang-2.6-bin/commons-lang-2.6/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Data/IR/Tools/Apache/commons-lang-2.6-bin/commons-lang-2.6/commons-lang-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Data/IR/Tools/Apache/commons-lang-2.6-bin/commons-lang-2.6/commons-lang-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Data/IR/Tools/Lucene/Jar/lucene-analyzers-common-4.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Data/IR/Tools/Lucene/Jar/lucene-core-4.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Data/IR/Tools/Lucene/Jar/lucene-demo-4.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Data/IR/Tools/Lucene/Jar/lucene-queryparser-4.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kamlesh/Desktop/Classes/IR/Project/jsoup-1.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,15 @@
+<Query id=”2”>
+  <Scenario>
+Kathy was having a terrible week of her life. She was having a bad week at her office, had a breakup with her boyfriend, fought with her family and even her dog died. What she needed was a change! A change from her routine, a break from all the frustrations, a change in herself! She planned to go for a change in her look by changing her hair color. But being a first timer, she was eager to know about how to color her hair.
+  </Scenario>
+  <Information Need>
+Information related to hair coloring
+  </Information Need>
+  <Query>
+coloring hair
+  </Query>
+  <Entities>
+    <Entity>AGENT.PERSON.THING</Entity>
+    <Entity>COLOR.COMPANY</Entity>
+  </Entities>
+</Query>

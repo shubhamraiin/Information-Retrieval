@@ -1,0 +1,15 @@
+<Query id=”6”>
+  <Scenario>
+Global warming is the latest concern of our age. Even after knowing that global warming is so dangerous, people have a very little knowledge about its extremely harmful effects on plants and human beings. This is a serious concern which needs be payed heed as early as possible.
+  </Scenario>
+  <Information Need>
+Information related to global warming
+  </Information Need>
+  <Query>
+effects of lobal warming on plants
+  </Query>
+  <Entities>
+    <Entity>AGENT.PERSON.THING</Entity>
+    <Entity>PLANTS</Entity>
+  </Entities>
+</Query>

@@ -1,0 +1,15 @@
+<Query id=”5”>
+  <Scenario>
+Reena loves to read. She was fscinated by the imagination of authors who write these splendid books. Her newest attraction was Harry Potter by JK rowling. She completed all her series in just a week. However, she is so impressed by the author that she wants to know about each and everything JK Rowling has written uptill now.
+  </Scenario>
+  <Information Need>
+Information related to JK Rowling
+  </Information Need>
+  <Query>
+books published by rowling
+  </Query>
+  <Entities>
+    <Entity>AGENT.PERSON.THING</Entity>
+    <Entity>COMPANY</Entity>
+  </Entities>
+</Query>

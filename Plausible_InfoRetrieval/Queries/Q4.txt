@@ -1,0 +1,22 @@
+<Query id=”4”>
+  <Scenario>
+    Daniel likes listening to  music.He would like to find blog posts where people
+    mention their top website from where they download or stream songs from their
+    favourite artists.
+  </Scenario>
+  <Information Need>
+    Info about where to listen or download songs from.
+  </Information Need>
+  <Query>
+    PERSON listens MUSIC
+  </Query>
+  <Entities>
+    <Entity>THING.AGENT.PERSON</Entity>
+    <Entity>THING.LISTEN</Entity>
+    <Entity>THING.WORK.MUSICALWORK.SONGS</Entity>
+    <Entity>THING.WORK.WEBSITE</Entity>
+  </Entities>
+  <Actions>
+    <Action>LISTENING</ Action>
+  </Actions>
+</Query>

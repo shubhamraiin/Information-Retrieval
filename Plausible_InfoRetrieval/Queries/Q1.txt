@@ -1,0 +1,15 @@
+<Query id=”1”>
+  <Scenario>
+Rugved always wanted to go to Italy, but he always wondered what to do there! As he is a special child, he was always fascinated by the architectural style but never got to know about the history behind those monuments. Now he has recovered fully and has an opportunity to go to Italy and understand the architecture. But again, what should he do there? 
+  </Scenario>
+  <Information Need>
+Information about places in Italy
+  </Information Need>
+  <Query>
+Most visited places in Italy
+  </Query>
+  <Entities>
+    <Entity>AGENT.PERSON.THING</Entity>
+    <Entity>GIFT.ORGANISATION.COMPANY</Entity>
+  </Entities>
+</Query>

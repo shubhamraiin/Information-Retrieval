@@ -1,0 +1,15 @@
+<Query id=”7”>
+  <Scenario>
+Nishi wants to buy a new phone for herself. Actually she is confused between a tablet and a phone. Which would serve her purpose. She just knows that her favourite brand is blackberry and any electronic she buys, she would get it from there. Her main goal now is to get to know as much information as she could about blackberry's manufacture of electronics. Mabe then, she would be able to make a perfect choice for herself. 
+  </Scenario>
+  <Information Need>
+Inquiry related to blackberry
+  </Information Need>
+  <Query>
+electronics manufactured by blackberry
+  </Query>
+  <Entities>
+    <Entity>AGENT.PERSON.THING</Entity>
+    <Entity>COMPANY</Entity>
+  </Entities>
+</Query>

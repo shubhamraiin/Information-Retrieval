@@ -1,0 +1,15 @@
+<Query id=”3”>
+  <Scenario>
+John plans to do a research on famous cars, their companies and their journeys. He is most fascinated by Nissan and Toyota. John’s father decided to help him with his research paper and took him to the companies to gather more information. The companies were huge! It was John’s best day ever!
+  </Scenario>
+  <Information Need>
+Nissan and Toyota’s success journey
+  </Information Need>
+  <Query>
+Companies gather Nissan's information
+  </Query>
+  <Entities>
+    <Entity>AGENT.PERSON.THING</Entity>
+    <Entity>DEVICE.RESEARCH.CAR</Entity>
+  </Entities>
+</Query>
