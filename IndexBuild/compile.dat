@@ -1,0 +1,7 @@
+#!/bin/bash
+export CORENLP_HOME=/usr/local/corenlp341
+javac -cp .:$CORENLP_HOME/joda-time.jar:$CORENLP_HOME/jollyday.jar:$CORENLP_HOME/ejml-0.23.jar:$CORENLP_HOME/xom.jar:$CORENLP_HOME/javax.json.jar:$CORENLP_HOME/stanford-corenlp-3.4.1.jar:$CORENLP_HOME/stanford-corenlp-3.4.1-models.jar BuildLemmatizedIndex.java
+
+#!/bin/bash
+export CORENLP_HOME=/usr/local/corenlp341
+javac -cp .:$CORENLP_HOME/joda-time.jar:$CORENLP_HOME/jollyday.jar:$CORENLP_HOME/ejml-0.23.jar:$CORENLP_HOME/xom.jar:$CORENLP_HOME/javax.json.jar:$CORENLP_HOME/stanford-corenlp-3.4.1.jar:$CORENLP_HOME/stanford-corenlp-3.4.1-models.jar BuildStemmedIndex.java
