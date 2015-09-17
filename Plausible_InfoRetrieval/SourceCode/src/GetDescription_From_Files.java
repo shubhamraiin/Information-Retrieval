@@ -20,7 +20,7 @@ import java.util.Map;
 
 class GetContentFromFiles{
 
-	String directoryPath = "C://Users//Kamlesh//Desktop//Classes//IR//Project//Indices//IR_Part1";
+	String directoryPath = "C://Users//Shubham//Desktop//Classes//IR//Project//Indices//IR_Part1";
 	
 	ArrayList<String> arrayListofFiles = new ArrayList<>();
 
@@ -195,7 +195,7 @@ class GetContentFromFiles{
 		 HashMap<String, String> DocID_Desc_Pair = null;
 	      try
 	      {
-	         FileInputStream fis = new FileInputStream("C://Users//Kamlesh//Desktop//Classes//IR//Project//Indices//IR_Part_3_Desc//Doc_ID_Description_Pair");
+	         FileInputStream fis = new FileInputStream("C://Users//Shubham//Desktop//Classes//IR//Project//Indices//IR_Part_3_Desc//Doc_ID_Description_Pair");
 	         ObjectInputStream ois = new ObjectInputStream(fis);
 	         DocID_Desc_Pair = (HashMap) ois.readObject();
 	         ois.close();

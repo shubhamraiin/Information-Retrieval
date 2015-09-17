@@ -11,7 +11,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 class ReadAllFiles {
-	String directoryPath = "C://Users//Kamlesh//Desktop//Classes//IR//Project//Indices//IR_Part3";
+	String directoryPath = "C://Users//Shubham//Desktop//Classes//IR//Project//Indices//IR_Part3";
 	
 	ArrayList<String> arrayListofFiles = new ArrayList<>();
 
